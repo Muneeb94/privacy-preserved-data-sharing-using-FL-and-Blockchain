@@ -1,0 +1,8 @@
+<additional>
+    <!-- Road-Side Units placed at intersections -->
+    <roadsideUnit id="rsu1" x="0" y="0" radius="150"/>
+    <roadsideUnit id="rsu2" x="75" y="0" radius="150"/>
+    <roadsideUnit id="rsu3" x="0" y="75" radius="150"/>
+    <roadsideUnit id="rsu4" x="75" y="75" radius="150"/>
+    <roadsideUnit id="rsu5" x="75" y="-50" radius="150"/>
+</additional>

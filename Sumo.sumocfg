@@ -1,0 +1,17 @@
+<configuration>
+    <input>
+        <net-file value="Map.net.xml" />
+        <route-files value="Route.rou.xml"/>
+        <additional-files value="points_tls.add.xml, rsu.add.xml"/>
+    </input>
+
+    <time>
+        <begin value="0" />
+        <end value="1000" />
+    </time>
+
+    <report>
+        <verbose value="true"/>
+    </report>
+
+</configuration>
